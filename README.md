@@ -4,13 +4,15 @@
  
 
 Email: Tanaytrivedi@icloud.com	
-LinkedIn:- linkedin.com/in/tanay-trivedi-6915231a6
+
+LinkedIn:- www.linkedin.com/in/tanay-trivedi-6915231a6
+
 GitHub:- https://github.com/Tanay03Trivedi
 ## Summary
 As a budding Cloud Engineer with a knack for mastering new technologies, I aspire to leverage my theoretical knowledge, coupled with my practical proficiency in relevant areas, to optimally design, develop, and manage robust and scalable cloud solutions for organizations. Aligned with the shared mission of driving innovative solutions, I see myself contributing greatly to ensuring operational efficiency and shaping the future of cloud-based services in any forward-thinking company.
 
 ## Experience
-	AWS Intern - Maxgen Technologies Pvt. Ltd.
+### AWS Intern - Maxgen Technologies Pvt. Ltd.
 •	Experience on aws services like VPC, EC2, S3, Policies etc.…
 
 ## Projects
