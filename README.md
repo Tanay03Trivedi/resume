@@ -17,11 +17,13 @@ As a budding Cloud Engineer with a knack for mastering new technologies, I aspir
 
 ## Projects
 Veeam Backup & Replication
+
 •	Implemented full system backup and restoration using Veeam
 •	Successfully conducted tests to validate functionality
 
 
 VPC
+
 •	Creating webservers on private subnet using autoscaling 
 •	Connecting to the internet with the use of load balancer
 •	Github link - https://github.com/Tanay03Trivedi/VPC-project
